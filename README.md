@@ -41,4 +41,4 @@ To use:
 	export default db
    ```
    
-   Have fun 💻
+ 4. Have fun 💻
