@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import './App.css'
 import { useState, useEffect } from 'react'
 import { Button, FormControl, Input, InputLabel } from '@material-ui/core'
@@ -47,7 +46,7 @@ function App() {
 				alt=''
 			/>
 
-			<h1>Messenger 😆 </h1>
+			<h1>Oby Messenger 😆 </h1>
 			<h2>Welcome, {username}</h2>
 			<form className='app__form'>
 				<FormControl className='app__formControl'>
@@ -78,30 +77,3 @@ function App() {
 }
 
 export default App
-=======
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
-export default App;
->>>>>>> d980ee258137b0eaa1667bdc37b2e3f3531b434f
